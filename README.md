@@ -1,6 +1,8 @@
 # Python-Series
 Exercises of Pythons basic programming to sub-professional lebels.
 
+![CI](https://github.com/ArnobMahmud/Python-Series/workflows/CI/badge.svg)
+
 
 # Citizen Code of Conduct
 
