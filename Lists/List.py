@@ -14,8 +14,3 @@ print(language[2:])
 print("C#" in language)
 
 print("JS" not in language)
-
-
-
-
-

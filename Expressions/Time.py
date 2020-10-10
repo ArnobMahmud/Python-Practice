@@ -5,7 +5,6 @@
 '''
 
 import datetime
-
 x = datetime.datetime(2020, 6, 12)
 
 print(x)

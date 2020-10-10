@@ -10,4 +10,3 @@ print("I am", name)
 print("At present I'm a student of" +university)
 
 print("It is",year)
-

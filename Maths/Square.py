@@ -8,19 +8,9 @@ import turtle
 arnob_turtle = turtle.Turtle()
 
 def square():
-
-       arnob_turtle.forward(100)
-       arnob_turtle.right(90)
-       arnob_turtle.forward(100)
-       arnob_turtle.right(90)
-       arnob_turtle.forward(100)
-       arnob_turtle.right(90)
-       arnob_turtle.forward(100)
-       arnob_turtle.right(90)
-
+       arnob_turtle.forward(80)
+       arnob_turtle.right(70)
+       arnob_turtle.forward(140)
+       #arnob_turtle.left(90)
+      arnob_turtle.forward(20)
 square()
-arnob_turtle.forward(150)
-arnob_turtle.right(90)
-square()
-
-
