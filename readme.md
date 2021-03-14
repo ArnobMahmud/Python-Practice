@@ -1,7 +1,23 @@
 # Python-Series
-Exercises of Pythons basic programming to sub-professional lebels.
 
-![CI](https://github.com/ArnobMahmud/Python-Series/workflows/CI/badge.svg)
+[![](https://img.shields.io/badge/License-MIT-critical?style=plastic&logo=appveyor)](https://github.com/ArnobMahmud/Python-Series/blob/master/license)&nbsp; 
+[![develop-with-arnob](https://img.shields.io/badge/Develop%20with-Arnob%20Mahmud-1f425f.svg?style=plastic&logo=visual-studio-code&logoColor=007ACC&labelColor=EEEEEE)](https://github.com/ArnobMahmud/)&nbsp;
+[![made-with-java](https://img.shields.io/badge/Made%20with-Python-1f425f.svg?style=plastic&logo=python&color=BE95FF&logoColor=00599C&labelColor=F8DC75)](https://www.python.org/)
+
+<h4> <b>Exercises of Python programmings implement in every field.</b></h4>
+
+- **Elementary Level**
+- **Machine Learning (ML)**
+- **Module**
+- **MongoDB**
+- **MySQL**
+- **NumPy**
+- **SciPy**
+
+![code](https://user-images.githubusercontent.com/60808266/111072281-12667500-8504-11eb-88e0-b2d1c652dd0d.png)
+
+
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg?style=plastic&logo=home-assistant)](https://m.me/arnob.mahmud.am/) &nbsp;&nbsp;
 
 # Python Series Live Share & Feedback
 
